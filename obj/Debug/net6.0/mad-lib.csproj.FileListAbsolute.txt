@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\bin\Debug\net6.0\mad-lib.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\bin\Debug\net6.0\mad-lib.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\bin\Debug\net6.0\mad-lib.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\bin\Debug\net6.0\mad-lib.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\bin\Debug\net6.0\mad-lib.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\refint\mad-lib.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\mad-lib.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\mad-lib\obj\Debug\net6.0\ref\mad-lib.dll
